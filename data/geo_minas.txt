@@ -1,0 +1,854 @@
+id	Codigo_MesoRegiao	Nome_MesoRegiao	Codigo_MicroRegiao	Nome_MicroRegiao	Municipio	Populacao2014
+1	1	"Noroeste de Minas"	1	Unai	Arinos	18.210
+2	1	"Noroeste de Minas"	1	Unai	"Bonfinopolis de Minas"	5.867
+3	1	"Noroeste de Minas"	1	Unai	Buritis	24.169
+4	1	"Noroeste de Minas"	1	Unai	"Cabeceira Grande"	6.818
+5	1	"Noroeste de Minas"	1	Unai	"Dom Bosco"	3.857
+6	1	"Noroeste de Minas"	1	Unai	Formoso	8.945
+7	1	"Noroeste de Minas"	1	Unai	Natalandia	3.377
+8	1	"Noroeste de Minas"	1	Unai	Unai	82.298
+9	1	"Noroeste de Minas"	1	Unai	"Uruana de Minas"	3.336
+10	1	"Noroeste de Minas"	2	Paracatu	"Brasilandia de Minas"	15.522
+11	1	"Noroeste de Minas"	2	Paracatu	Guarda-Mor	6.739
+12	1	"Noroeste de Minas"	2	Paracatu	"Joao Pinheiro"	47.870
+13	1	"Noroeste de Minas"	2	Paracatu	Lagamar	7.800
+14	1	"Noroeste de Minas"	2	Paracatu	"Lagoa Grande"	9.216
+15	1	"Noroeste de Minas"	2	Paracatu	Paracatu	90.294
+16	1	"Noroeste de Minas"	2	Paracatu	"Presidente Olegario"	19.398
+17	1	"Noroeste de Minas"	2	Paracatu	"Sao Goncalo do Abaete"	6.717
+18	1	"Noroeste de Minas"	2	Paracatu	"Varjao de Minas"	6.662
+19	1	"Noroeste de Minas"	2	Paracatu	Vazante	20.580
+20	2	"Norte de Minas"	3	Januaria	"Bonito de Minas"	10.535
+21	2	"Norte de Minas"	3	Januaria	"Chapada Gaucha"	12.239
+22	2	"Norte de Minas"	3	Januaria	"Conego Marinho"	7.515
+23	2	"Norte de Minas"	3	Januaria	"Icarai de Minas"	11.524
+24	2	"Norte de Minas"	3	Januaria	Itacarambi	18.350
+25	2	"Norte de Minas"	3	Januaria	Januaria	68.065
+26	2	"Norte de Minas"	3	Januaria	Juvenilia	5.862
+27	2	"Norte de Minas"	3	Januaria	Manga	19.757
+28	2	"Norte de Minas"	3	Januaria	"Matias Cardoso"	10.717
+29	2	"Norte de Minas"	3	Januaria	Miravania	4.803
+30	2	"Norte de Minas"	3	Januaria	Montalvania	15.875
+31	2	"Norte de Minas"	3	Januaria	"Pedras de Maria da Cruz"	11.084
+32	2	"Norte de Minas"	3	Januaria	Pintopolis	7.516
+33	2	"Norte de Minas"	3	Januaria	"Sao Francisco"	56.217
+34	2	"Norte de Minas"	3	Januaria	"Sao Joao das Missoes"	12.539
+35	2	"Norte de Minas"	3	Januaria	Urucuia	15.266
+36	2	"Norte de Minas"	4	Janauba	Catuti	5.187
+37	2	"Norte de Minas"	4	Janauba	Espinosa	32.117
+38	2	"Norte de Minas"	4	Janauba	Gameleiras	5.259
+39	2	"Norte de Minas"	4	Janauba	Jaiba	36.586
+40	2	"Norte de Minas"	4	Janauba	Janauba	70.472
+41	2	"Norte de Minas"	4	Janauba	Mamonas	6.573
+42	2	"Norte de Minas"	4	Janauba	"Mato Verde"	12.921
+43	2	"Norte de Minas"	4	Janauba	"Monte Azul"	22.102
+44	2	"Norte de Minas"	4	Janauba	"Nova Porteirinha"	7.630
+45	2	"Norte de Minas"	4	Janauba	"Pai Pedro"	6.150
+46	2	"Norte de Minas"	4	Janauba	Porteirinha	38.709
+47	2	"Norte de Minas"	4	Janauba	"Riacho dos Machados"	9.650
+48	2	"Norte de Minas"	4	Janauba	"Serranopolis de Minas"	4.682
+49	2	"Norte de Minas"	5	Salinas	"Aguas Vermelhas"	13.378
+50	2	"Norte de Minas"	5	Salinas	Berizal	4.630
+51	2	"Norte de Minas"	5	Salinas	"Curral de Dentro"	7.420
+52	2	"Norte de Minas"	5	Salinas	"Divisa Alegre"	6.398
+53	2	"Norte de Minas"	5	Salinas	"Fruta de Leite"	5.863
+54	2	"Norte de Minas"	5	Salinas	Indaiabira	7.527
+55	2	"Norte de Minas"	5	Salinas	Montezuma	7.973
+56	2	"Norte de Minas"	5	Salinas	Ninheira	10.261
+57	2	"Norte de Minas"	5	Salinas	Novorizonte	5.226
+58	2	"Norte de Minas"	5	Salinas	"Rio Pardo de Minas"	30.578
+59	2	"Norte de Minas"	5	Salinas	Rubelita	7.257
+60	2	"Norte de Minas"	5	Salinas	Salinas	41.098
+61	2	"Norte de Minas"	5	Salinas	"Santa Cruz de Salinas"	4.408
+62	2	"Norte de Minas"	5	Salinas	"Santo Antonio do Retiro"	7.264
+63	2	"Norte de Minas"	5	Salinas	"Sao Joao do Paraiso"	23.417
+64	2	"Norte de Minas"	5	Salinas	Taiobeiras	33.040
+65	2	"Norte de Minas"	5	Salinas	"Vargem Grande do Rio Pardo"	4.966
+66	2	"Norte de Minas"	6	Pirapora	Buritizeiro	28.071
+67	2	"Norte de Minas"	6	Pirapora	Ibiai	8.264
+68	2	"Norte de Minas"	6	Pirapora	Jequitai	8.021
+69	2	"Norte de Minas"	6	Pirapora	"Lagoa dos Patos"	4.285
+70	2	"Norte de Minas"	6	Pirapora	Lassance	6.663
+71	2	"Norte de Minas"	6	Pirapora	Pirapora	55.972
+72	2	"Norte de Minas"	6	Pirapora	Riachinho	8.266
+73	2	"Norte de Minas"	6	Pirapora	"Santa Fe de Minas"	4.021
+74	2	"Norte de Minas"	6	Pirapora	"Sao Romao"	11.370
+75	2	"Norte de Minas"	6	Pirapora	"Varzea da Palma"	38.213
+76	2	"Norte de Minas"	7	"Montes Claros"	"Brasilia de Minas"	32.473
+77	2	"Norte de Minas"	7	"Montes Claros"	"Campo Azul"	3.832
+78	2	"Norte de Minas"	7	"Montes Claros"	"Capitao Eneias"	0
+79	2	"Norte de Minas"	7	"Montes Claros"	"Claro dos Pocoes"	7.885
+80	2	"Norte de Minas"	7	"Montes Claros"	"Coracao de Jesus"	26.933
+81	2	"Norte de Minas"	7	"Montes Claros"	"Francisco Sa"	26.102
+82	2	"Norte de Minas"	7	"Montes Claros"	Glaucilandia	3.114
+83	2	"Norte de Minas"	7	"Montes Claros"	Ibiracatu	6.228
+84	2	"Norte de Minas"	7	"Montes Claros"	Japonvar	8.622
+85	2	"Norte de Minas"	7	"Montes Claros"	Juramento	4.307
+86	2	"Norte de Minas"	7	"Montes Claros"	Lontra	8.881
+87	2	"Norte de Minas"	7	"Montes Claros"	Luislandia	6.685
+88	2	"Norte de Minas"	7	"Montes Claros"	Mirabela	13.598
+89	2	"Norte de Minas"	7	"Montes Claros"	"Montes Claros"	390.212
+90	2	"Norte de Minas"	7	"Montes Claros"	Patis	5.881
+91	2	"Norte de Minas"	7	"Montes Claros"	"Ponto Chique"	4.187
+92	2	"Norte de Minas"	7	"Montes Claros"	"Sao Joao da Lagoa"	4.880
+93	2	"Norte de Minas"	7	"Montes Claros"	"Sao Joao da Ponte"	25.933
+94	2	"Norte de Minas"	7	"Montes Claros"	"Sao Joao do Pacui"	4.308
+95	2	"Norte de Minas"	7	"Montes Claros"	Ubai	12.324
+96	2	"Norte de Minas"	7	"Montes Claros"	Varzelandia	19.690
+97	2	"Norte de Minas"	7	"Montes Claros"	Verdelandia	8.967
+98	2	"Norte de Minas"	8	Grao-Mogol	Botumirim	6.593
+99	2	"Norte de Minas"	8	Grao-Mogol	Cristalia	5.993
+100	2	"Norte de Minas"	8	Grao-Mogol	Grao-Mogol	0
+101	2	"Norte de Minas"	8	Grao-Mogol	Itacambira	5.276
+102	2	"Norte de Minas"	8	Grao-Mogol	Josenopolis	4.804
+103	2	"Norte de Minas"	8	Grao-Mogol	"Padre Carvalho"	6.203
+104	2	"Norte de Minas"	9	Bocaiuva	Bocaiuva	49.293
+105	2	"Norte de Minas"	9	Bocaiuva	"Engenheiro Navarro"	7.353
+106	2	"Norte de Minas"	9	Bocaiuva	"Francisco Dumont"	5.130
+107	2	"Norte de Minas"	9	Bocaiuva	Guaraciama	4.941
+108	2	"Norte de Minas"	9	Bocaiuva	Olhos-dAgua	5.735
+109	3	Jequitinhonha	10	Diamantina	"Couto de Magalhaes de Minas"	4.395
+110	3	Jequitinhonha	10	Diamantina	Datas	5.425
+111	3	Jequitinhonha	10	Diamantina	Diamantina	47.803
+112	3	Jequitinhonha	10	Diamantina	"Felicio dos Santos"	5.118
+113	3	Jequitinhonha	10	Diamantina	Gouveia	12.039
+114	3	Jequitinhonha	10	Diamantina	"Presidente Kubitschek"	3.053
+115	3	Jequitinhonha	10	Diamantina	"Sao Goncalo do Rio Preto"	3.180
+116	3	Jequitinhonha	10	Diamantina	"Senador Modestino Goncalves"	4.523
+117	3	Jequitinhonha	11	Capelinha	Angelandia	8.416
+118	3	Jequitinhonha	11	Capelinha	Aricanduva	5.078
+119	3	Jequitinhonha	11	Capelinha	Berilo	12.469
+120	3	Jequitinhonha	11	Capelinha	Capelinha	37.041
+121	3	Jequitinhonha	11	Capelinha	Carbonita	9.487
+122	3	Jequitinhonha	11	Capelinha	"Chapada do Norte"	15.648
+123	3	Jequitinhonha	11	Capelinha	"Francisco Badaro"	10.546
+124	3	Jequitinhonha	11	Capelinha	Itamarandiba	34.033
+125	3	Jequitinhonha	11	Capelinha	"Jenipapo de Minas"	7.531
+126	3	Jequitinhonha	11	Capelinha	"Jose Goncalves de Minas"	4.650
+127	3	Jequitinhonha	11	Capelinha	"Leme do Prado"	4.974
+128	3	Jequitinhonha	11	Capelinha	"Minas Novas"	31.864
+129	3	Jequitinhonha	11	Capelinha	Turmalina	19.288
+130	3	Jequitinhonha	11	Capelinha	Veredinha	5.760
+131	3	Jequitinhonha	12	Aracuai	Aracuai	37.220
+132	3	Jequitinhonha	12	Aracuai	Carai	23.458
+133	3	Jequitinhonha	12	Aracuai	"Coronel Murta"	9.394
+134	3	Jequitinhonha	12	Aracuai	Itinga	15.012
+135	3	Jequitinhonha	12	Aracuai	"Novo Cruzeiro"	31.760
+136	3	Jequitinhonha	12	Aracuai	"Padre Paraiso"	19.859
+137	3	Jequitinhonha	12	Aracuai	"Ponto dos Volantes"	11.949
+138	3	Jequitinhonha	12	Aracuai	"Virgem da Lapa"	14.023
+139	3	Jequitinhonha	13	"Pedra Azul"	"Cachoeira de Pajeu"	9.372
+140	3	Jequitinhonha	13	"Pedra Azul"	Comercinho	7.962
+141	3	Jequitinhonha	13	"Pedra Azul"	Itaobim	21.566
+142	3	Jequitinhonha	13	"Pedra Azul"	Medina	21.485
+143	3	Jequitinhonha	13	"Pedra Azul"	"Pedra Azul"	24.648
+144	3	Jequitinhonha	14	Almenara	Almenara	41.028
+145	3	Jequitinhonha	14	Almenara	Bandeira	5.039
+146	3	Jequitinhonha	14	Almenara	Divisopolis	10.027
+147	3	Jequitinhonha	14	Almenara	Felisburgo	7.288
+148	3	Jequitinhonha	14	Almenara	Jacinto	12.524
+149	3	Jequitinhonha	14	Almenara	Jequitinhonha	25.260
+150	3	Jequitinhonha	14	Almenara	Joaima	15.523
+151	3	Jequitinhonha	14	Almenara	Jordania	10.786
+152	3	Jequitinhonha	14	Almenara	"Mata Verde"	8.363
+153	3	Jequitinhonha	14	Almenara	"Monte Formoso"	4.877
+154	3	Jequitinhonha	14	Almenara	Palmopolis	6.537
+155	3	Jequitinhonha	14	Almenara	"Rio do Prado"	5.324
+156	3	Jequitinhonha	14	Almenara	Rubim	10.304
+157	3	Jequitinhonha	14	Almenara	"Salto da Divisa"	7.096
+158	3	Jequitinhonha	14	Almenara	"Santa Maria do Salto"	5.400
+159	3	Jequitinhonha	14	Almenara	"Santo Antonio do Jacinto"	12.024
+160	4	"Vale do Mucuri"	15	"Teofilo Otoni"	Ataleia	14.188
+161	4	"Vale do Mucuri"	15	"Teofilo Otoni"	Catuji	6.721
+162	4	"Vale do Mucuri"	15	"Teofilo Otoni"	Franciscopolis	5.784
+163	4	"Vale do Mucuri"	15	"Teofilo Otoni"	"Frei Gaspar"	6.031
+164	4	"Vale do Mucuri"	15	"Teofilo Otoni"	Itaipe	12.489
+165	4	"Vale do Mucuri"	15	"Teofilo Otoni"	Ladainha	17.881
+166	4	"Vale do Mucuri"	15	"Teofilo Otoni"	Malacacheta	19.209
+167	4	"Vale do Mucuri"	15	"Teofilo Otoni"	"Novo Oriente de Minas"	10.773
+168	4	"Vale do Mucuri"	15	"Teofilo Otoni"	"Ouro Verde de Minas"	6.138
+169	4	"Vale do Mucuri"	15	"Teofilo Otoni"	Pavao	8.755
+170	4	"Vale do Mucuri"	15	"Teofilo Otoni"	Pote	16.428
+171	4	"Vale do Mucuri"	15	"Teofilo Otoni"	Setubinha	11.717
+172	4	"Vale do Mucuri"	15	"Teofilo Otoni"	"Teofilo Otoni"	140.567
+173	4	"Vale do Mucuri"	16	Nanuque	"Aguas Formosas"	19.248
+174	4	"Vale do Mucuri"	16	Nanuque	Bertopolis	4.656
+175	4	"Vale do Mucuri"	16	Nanuque	"Carlos Chagas"	20.090
+176	4	"Vale do Mucuri"	16	Nanuque	Crisolita	6.467
+177	4	"Vale do Mucuri"	16	Nanuque	"Fronteira dos Vales"	4.765
+178	4	"Vale do Mucuri"	16	Nanuque	Maxacalis	0
+179	4	"Vale do Mucuri"	16	Nanuque	Nanuque	41.852
+180	4	"Vale do Mucuri"	16	Nanuque	"Santa Helena de Minas"	6.336
+181	4	"Vale do Mucuri"	16	Nanuque	"Serra dos Aimores"	8.744
+182	4	"Vale do Mucuri"	16	Nanuque	Umburatiba	2.736
+183	5	"Triangulo Mineiro / Alto Paranaiba"	17	Ituiutaba	"Cachoeira Dourada"	2.645
+184	5	"Triangulo Mineiro / Alto Paranaiba"	17	Ituiutaba	Capinopolis	16.038
+185	5	"Triangulo Mineiro / Alto Paranaiba"	17	Ituiutaba	Gurinhata	6.094
+186	5	"Triangulo Mineiro / Alto Paranaiba"	17	Ituiutaba	Ipiacu	4.260
+187	5	"Triangulo Mineiro / Alto Paranaiba"	17	Ituiutaba	Ituiutaba	102.690
+188	5	"Triangulo Mineiro / Alto Paranaiba"	17	Ituiutaba	"Santa Vitoria"	19.250
+189	5	"Triangulo Mineiro / Alto Paranaiba"	18	Uberlandia	Araguari	115.632
+190	5	"Triangulo Mineiro / Alto Paranaiba"	18	Uberlandia	Arapora	6.593
+191	5	"Triangulo Mineiro / Alto Paranaiba"	18	Uberlandia	Canapolis	11.945
+192	5	"Triangulo Mineiro / Alto Paranaiba"	18	Uberlandia	"Cascalho Rico"	3.018
+193	5	"Triangulo Mineiro / Alto Paranaiba"	18	Uberlandia	Centralina	10.593
+194	5	"Triangulo Mineiro / Alto Paranaiba"	18	Uberlandia	Indianopolis	6.632
+195	5	"Triangulo Mineiro / Alto Paranaiba"	18	Uberlandia	"Monte Alegre de Minas"	20.728
+196	5	"Triangulo Mineiro / Alto Paranaiba"	18	Uberlandia	Prata	27.293
+197	5	"Triangulo Mineiro / Alto Paranaiba"	18	Uberlandia	Tupaciguara	25.269
+198	5	"Triangulo Mineiro / Alto Paranaiba"	18	Uberlandia	Uberlandia	654.681
+199	5	"Triangulo Mineiro / Alto Paranaiba"	19	Patrocinio	"Abadia dos Dourados"	6.992
+200	5	"Triangulo Mineiro / Alto Paranaiba"	19	Patrocinio	Coromandel	28.428
+201	5	"Triangulo Mineiro / Alto Paranaiba"	19	Patrocinio	"Cruzeiro da Fortaleza"	4.122
+202	5	"Triangulo Mineiro / Alto Paranaiba"	19	Patrocinio	Douradoquara	1.915
+203	5	"Triangulo Mineiro / Alto Paranaiba"	19	Patrocinio	"Estrela do Sul"	7.851
+204	5	"Triangulo Mineiro / Alto Paranaiba"	19	Patrocinio	Grupiara	1.415
+205	5	"Triangulo Mineiro / Alto Paranaiba"	19	Patrocinio	"Irai de Minas"	6.842
+206	5	"Triangulo Mineiro / Alto Paranaiba"	19	Patrocinio	"Monte Carmelo"	47.770
+207	5	"Triangulo Mineiro / Alto Paranaiba"	19	Patrocinio	Patrocinio	87.928
+208	5	"Triangulo Mineiro / Alto Paranaiba"	19	Patrocinio	Romaria	3.664
+209	5	"Triangulo Mineiro / Alto Paranaiba"	19	Patrocinio	"Serra do Salitre"	11.236
+210	5	"Triangulo Mineiro / Alto Paranaiba"	20	"Patos de Minas"	Arapua	2.870
+211	5	"Triangulo Mineiro / Alto Paranaiba"	20	"Patos de Minas"	"Carmo do Paranaiba"	30.739
+212	5	"Triangulo Mineiro / Alto Paranaiba"	20	"Patos de Minas"	Guimarania	7.764
+213	5	"Triangulo Mineiro / Alto Paranaiba"	20	"Patos de Minas"	"Lagoa Formosa"	17.962
+214	5	"Triangulo Mineiro / Alto Paranaiba"	20	"Patos de Minas"	Matutina	3.853
+215	5	"Triangulo Mineiro / Alto Paranaiba"	20	"Patos de Minas"	"Patos de Minas"	147.614
+216	5	"Triangulo Mineiro / Alto Paranaiba"	20	"Patos de Minas"	"Rio Paranaiba"	12.364
+217	5	"Triangulo Mineiro / Alto Paranaiba"	20	"Patos de Minas"	"Santa Rosa da Serra"	3.357
+218	5	"Triangulo Mineiro / Alto Paranaiba"	20	"Patos de Minas"	"Sao Gotardo"	34.107
+219	5	"Triangulo Mineiro / Alto Paranaiba"	20	"Patos de Minas"	Tiros	6.912
+220	5	"Triangulo Mineiro / Alto Paranaiba"	21	Frutal	"Campina Verde"	19.991
+221	5	"Triangulo Mineiro / Alto Paranaiba"	21	Frutal	Carneirinho	9.939
+222	5	"Triangulo Mineiro / Alto Paranaiba"	21	Frutal	"Comendador Gomes"	3.105
+223	5	"Triangulo Mineiro / Alto Paranaiba"	21	Frutal	Fronteira	16.036
+224	5	"Triangulo Mineiro / Alto Paranaiba"	21	Frutal	Frutal	57.269
+225	5	"Triangulo Mineiro / Alto Paranaiba"	21	Frutal	Itapajipe	0
+226	5	"Triangulo Mineiro / Alto Paranaiba"	21	Frutal	Iturama	37.277
+227	5	"Triangulo Mineiro / Alto Paranaiba"	21	Frutal	"Limeira do Oeste"	7.327
+228	5	"Triangulo Mineiro / Alto Paranaiba"	21	Frutal	Pirajuba	5.396
+229	5	"Triangulo Mineiro / Alto Paranaiba"	21	Frutal	Planura	11.355
+230	5	"Triangulo Mineiro / Alto Paranaiba"	21	Frutal	"Sao Francisco de Sales"	6.110
+231	5	"Triangulo Mineiro / Alto Paranaiba"	21	Frutal	"Uniao de Minas"	4.486
+232	5	"Triangulo Mineiro / Alto Paranaiba"	22	Uberaba	"Agua Comprida"	2.067
+233	5	"Triangulo Mineiro / Alto Paranaiba"	22	Uberaba	"Campo Florido"	7.562
+234	5	"Triangulo Mineiro / Alto Paranaiba"	22	Uberaba	"Conceicao das Alagoas"	25.588
+235	5	"Triangulo Mineiro / Alto Paranaiba"	22	Uberaba	Conquista	6.860
+236	5	"Triangulo Mineiro / Alto Paranaiba"	22	Uberaba	Delta	9.280
+237	5	"Triangulo Mineiro / Alto Paranaiba"	22	Uberaba	Uberaba	318.813
+238	5	"Triangulo Mineiro / Alto Paranaiba"	22	Uberaba	Verissimo	3.781
+239	5	"Triangulo Mineiro / Alto Paranaiba"	23	Araxa	Araxa	101.136
+240	5	"Triangulo Mineiro / Alto Paranaiba"	23	Araxa	"Campos Altos"	15.078
+241	5	"Triangulo Mineiro / Alto Paranaiba"	23	Araxa	Ibia	24.613
+242	5	"Triangulo Mineiro / Alto Paranaiba"	23	Araxa	"Nova Ponte"	14.241
+243	5	"Triangulo Mineiro / Alto Paranaiba"	23	Araxa	Pedrinopolis	3.638
+244	5	"Triangulo Mineiro / Alto Paranaiba"	23	Araxa	Perdizes	15.484
+245	5	"Triangulo Mineiro / Alto Paranaiba"	23	Araxa	Pratinha	3.485
+246	5	"Triangulo Mineiro / Alto Paranaiba"	23	Araxa	Sacramento	25.432
+247	5	"Triangulo Mineiro / Alto Paranaiba"	23	Araxa	"Santa Juliana"	12.702
+248	5	"Triangulo Mineiro / Alto Paranaiba"	23	Araxa	Tapira	4.484
+249	6	"Central Mineira"	24	"Tres Marias"	Abaete	23.494
+250	6	"Central Mineira"	24	"Tres Marias"	Biquinhas	2.652
+251	6	"Central Mineira"	24	"Tres Marias"	"Cedro do Abaete"	1.222
+252	6	"Central Mineira"	24	"Tres Marias"	"Morada Nova de Minas"	8.712
+253	6	"Central Mineira"	24	"Tres Marias"	Paineiras	4.692
+254	6	"Central Mineira"	24	"Tres Marias"	Pompeu	30.943
+255	6	"Central Mineira"	24	"Tres Marias"	"Tres Marias"	30.673
+256	6	"Central Mineira"	25	Curvelo	"Augusto de Lima"	5.051
+257	6	"Central Mineira"	25	Curvelo	Buenopolis	10.586
+258	6	"Central Mineira"	25	Curvelo	Corinto	24.457
+259	6	"Central Mineira"	25	Curvelo	Curvelo	78.373
+260	6	"Central Mineira"	25	Curvelo	Felixlandia	14.973
+261	6	"Central Mineira"	25	Curvelo	Inimutaba	7.349
+262	6	"Central Mineira"	25	Curvelo	"Joaquim Felicio"	4.573
+263	6	"Central Mineira"	25	Curvelo	Monjolos	2.365
+264	6	"Central Mineira"	25	Curvelo	"Morro da Garca"	2.649
+265	6	"Central Mineira"	25	Curvelo	"Presidente Juscelino"	3.901
+266	6	"Central Mineira"	25	Curvelo	"Santo Hipolito"	3.261
+267	6	"Central Mineira"	26	"Bom Despacho"	Araujos	8.645
+268	6	"Central Mineira"	26	"Bom Despacho"	"Bom Despacho"	48.802
+269	6	"Central Mineira"	26	"Bom Despacho"	"Dores do Indaia"	14.014
+270	6	"Central Mineira"	26	"Bom Despacho"	"Estrela do Indaia"	3.599
+271	6	"Central Mineira"	26	"Bom Despacho"	Japaraiba	4.206
+272	6	"Central Mineira"	26	"Bom Despacho"	"Lagoa da Prata"	49.654
+273	6	"Central Mineira"	26	"Bom Despacho"	"Leandro Ferreira"	3.297
+274	6	"Central Mineira"	26	"Bom Despacho"	Luz	18.230
+275	6	"Central Mineira"	26	"Bom Despacho"	"Martinho Campos"	13.248
+276	6	"Central Mineira"	26	"Bom Despacho"	Moema	7.406
+277	6	"Central Mineira"	26	"Bom Despacho"	"Quartel Geral"	3.493
+278	6	"Central Mineira"	26	"Bom Despacho"	"Serra da Saudade"	822
+279	7	"Metropolitana de Belo Horizonte"	27	"Sete Lagoas"	Aracai	2.344
+280	7	"Metropolitana de Belo Horizonte"	27	"Sete Lagoas"	Baldim	8.082
+281	7	"Metropolitana de Belo Horizonte"	27	"Sete Lagoas"	"Cachoeira da Prata"	3.727
+282	7	"Metropolitana de Belo Horizonte"	27	"Sete Lagoas"	Caetanopolis	11.046
+283	7	"Metropolitana de Belo Horizonte"	27	"Sete Lagoas"	"Capim Branco"	9.461
+284	7	"Metropolitana de Belo Horizonte"	27	"Sete Lagoas"	Cordisburgo	8.981
+285	7	"Metropolitana de Belo Horizonte"	27	"Sete Lagoas"	"Fortuna de Minas"	2.872
+286	7	"Metropolitana de Belo Horizonte"	27	"Sete Lagoas"	Funilandia	4.153
+287	7	"Metropolitana de Belo Horizonte"	27	"Sete Lagoas"	Inhauma	6.114
+288	7	"Metropolitana de Belo Horizonte"	27	"Sete Lagoas"	Jabuticatubas	0
+289	7	"Metropolitana de Belo Horizonte"	27	"Sete Lagoas"	Jequitiba	5.310
+290	7	"Metropolitana de Belo Horizonte"	27	"Sete Lagoas"	Maravilhas	7.674
+291	7	"Metropolitana de Belo Horizonte"	27	"Sete Lagoas"	Matozinhos	36.382
+292	7	"Metropolitana de Belo Horizonte"	27	"Sete Lagoas"	Papagaios	15.144
+293	7	"Metropolitana de Belo Horizonte"	27	"Sete Lagoas"	Paraopeba	23.940
+294	7	"Metropolitana de Belo Horizonte"	27	"Sete Lagoas"	Pequi	4.314
+295	7	"Metropolitana de Belo Horizonte"	27	"Sete Lagoas"	"Prudente de Morais"	10.287
+296	7	"Metropolitana de Belo Horizonte"	27	"Sete Lagoas"	"Santana de Pirapama"	8.068
+297	7	"Metropolitana de Belo Horizonte"	27	"Sete Lagoas"	"Santana do Riacho"	4.235
+298	7	"Metropolitana de Belo Horizonte"	27	"Sete Lagoas"	"Sete Lagoas"	229.887
+299	7	"Metropolitana de Belo Horizonte"	28	"Conceicao do Mato Dentro"	"Alvorada de Minas"	3.661
+300	7	"Metropolitana de Belo Horizonte"	28	"Conceicao do Mato Dentro"	"Conceicao do Mato Dentro"	18.235
+301	7	"Metropolitana de Belo Horizonte"	28	"Conceicao do Mato Dentro"	"Congonhas do Norte"	5.111
+302	7	"Metropolitana de Belo Horizonte"	28	"Conceicao do Mato Dentro"	"Dom Joaquim"	4.624
+303	7	"Metropolitana de Belo Horizonte"	28	"Conceicao do Mato Dentro"	"Itambe do Mato Dentro"	2.261
+304	7	"Metropolitana de Belo Horizonte"	28	"Conceicao do Mato Dentro"	"Morro do Pilar"	3.399
+305	7	"Metropolitana de Belo Horizonte"	28	"Conceicao do Mato Dentro"	Passabem	1.764
+306	7	"Metropolitana de Belo Horizonte"	28	"Conceicao do Mato Dentro"	"Rio Vermelho"	13.674
+307	7	"Metropolitana de Belo Horizonte"	28	"Conceicao do Mato Dentro"	"Santo Antonio do Itambe"	4.121
+308	7	"Metropolitana de Belo Horizonte"	28	"Conceicao do Mato Dentro"	"Santo Antonio do Rio Abaixo"	1.818
+309	7	"Metropolitana de Belo Horizonte"	28	"Conceicao do Mato Dentro"	"Sao Sebastiao do Rio Preto"	1.611
+310	7	"Metropolitana de Belo Horizonte"	28	"Conceicao do Mato Dentro"	"Serra Azul de Minas"	4.358
+311	7	"Metropolitana de Belo Horizonte"	28	"Conceicao do Mato Dentro"	Serro	21.423
+312	7	"Metropolitana de Belo Horizonte"	29	"Para de Minas"	Florestal	7.137
+313	7	"Metropolitana de Belo Horizonte"	29	"Para de Minas"	"Onca de Pitangui"	3.171
+314	7	"Metropolitana de Belo Horizonte"	29	"Para de Minas"	"Para de Minas"	90.306
+315	7	"Metropolitana de Belo Horizonte"	29	"Para de Minas"	Pitangui	27.040
+316	7	"Metropolitana de Belo Horizonte"	29	"Para de Minas"	"Sao Jose da Varginha"	4.630
+317	7	"Metropolitana de Belo Horizonte"	30	"Belo Horizonte"	"Belo Horizonte"	2.491.109
+318	7	"Metropolitana de Belo Horizonte"	30	"Belo Horizonte"	Betim	412.003
+319	7	"Metropolitana de Belo Horizonte"	30	"Belo Horizonte"	Brumadinho	37.314
+320	7	"Metropolitana de Belo Horizonte"	30	"Belo Horizonte"	Caete	43.395
+321	7	"Metropolitana de Belo Horizonte"	30	"Belo Horizonte"	Confins	6.409
+322	7	"Metropolitana de Belo Horizonte"	30	"Belo Horizonte"	Contagem	643.476
+323	7	"Metropolitana de Belo Horizonte"	30	"Belo Horizonte"	Esmeraldas	66.237
+324	7	"Metropolitana de Belo Horizonte"	30	"Belo Horizonte"	Ibirite	171.932
+325	7	"Metropolitana de Belo Horizonte"	30	"Belo Horizonte"	Igarape	39.045
+326	7	"Metropolitana de Belo Horizonte"	30	"Belo Horizonte"	Juatuba	24.662
+327	7	"Metropolitana de Belo Horizonte"	30	"Belo Horizonte"	"Lagoa Santa"	58.702
+328	7	"Metropolitana de Belo Horizonte"	30	"Belo Horizonte"	"Mario Campos"	14.427
+329	7	"Metropolitana de Belo Horizonte"	30	"Belo Horizonte"	"Mateus Leme"	29.873
+330	7	"Metropolitana de Belo Horizonte"	30	"Belo Horizonte"	"Nova Lima"	88.672
+331	7	"Metropolitana de Belo Horizonte"	30	"Belo Horizonte"	"Pedro Leopoldo"	62.473
+332	7	"Metropolitana de Belo Horizonte"	30	"Belo Horizonte"	Raposos	16.144
+333	7	"Metropolitana de Belo Horizonte"	30	"Belo Horizonte"	"Ribeirao das Neves"	319.310
+334	7	"Metropolitana de Belo Horizonte"	30	"Belo Horizonte"	"Rio Acima"	9.816
+335	7	"Metropolitana de Belo Horizonte"	30	"Belo Horizonte"	Sabara	133.528
+336	7	"Metropolitana de Belo Horizonte"	30	"Belo Horizonte"	"Santa Luzia"	214.830
+337	7	"Metropolitana de Belo Horizonte"	30	"Belo Horizonte"	"Sao Joaquim de Bicas"	28.624
+338	7	"Metropolitana de Belo Horizonte"	30	"Belo Horizonte"	"Sao Jose da Lapa"	21.905
+339	7	"Metropolitana de Belo Horizonte"	30	"Belo Horizonte"	Sarzedo	29.270
+340	7	"Metropolitana de Belo Horizonte"	30	"Belo Horizonte"	Vespasiano	116.506
+341	7	"Metropolitana de Belo Horizonte"	31	Itabira	Alvinopolis	15.630
+342	7	"Metropolitana de Belo Horizonte"	31	Itabira	"Barao de Cocais"	30.893
+343	7	"Metropolitana de Belo Horizonte"	31	Itabira	"Bela Vista de Minas"	10.362
+344	7	"Metropolitana de Belo Horizonte"	31	Itabira	"Bom Jesus do Amparo"	5.871
+345	7	"Metropolitana de Belo Horizonte"	31	Itabira	"Catas Altas"	5.184
+346	7	"Metropolitana de Belo Horizonte"	31	Itabira	Dionisio	8.558
+347	7	"Metropolitana de Belo Horizonte"	31	Itabira	Ferros	10.707
+348	7	"Metropolitana de Belo Horizonte"	31	Itabira	Itabira	116.745
+349	7	"Metropolitana de Belo Horizonte"	31	Itabira	"Joao Monlevade"	78.040
+350	7	"Metropolitana de Belo Horizonte"	31	Itabira	"Nova Era"	18.000
+351	7	"Metropolitana de Belo Horizonte"	31	Itabira	"Nova Uniao"	5.766
+352	7	"Metropolitana de Belo Horizonte"	31	Itabira	"Rio Piracicaba"	14.590
+353	7	"Metropolitana de Belo Horizonte"	31	Itabira	"Santa Barbara"	29.888
+354	7	"Metropolitana de Belo Horizonte"	31	Itabira	"Santa Maria de Itabira"	10.942
+355	7	"Metropolitana de Belo Horizonte"	31	Itabira	"Sao Domingos do Prata"	17.805
+356	7	"Metropolitana de Belo Horizonte"	31	Itabira	"Sao Goncalo do Rio Abaixo"	10.488
+357	7	"Metropolitana de Belo Horizonte"	31	Itabira	"Sao Jose do Goiabal"	5.695
+358	7	"Metropolitana de Belo Horizonte"	31	Itabira	"Taquaracu de Minas"	4.006
+359	7	"Metropolitana de Belo Horizonte"	32	Itaguara	"Belo Vale"	7.803
+360	7	"Metropolitana de Belo Horizonte"	32	Itaguara	Bonfim	7.014
+361	7	"Metropolitana de Belo Horizonte"	32	Itaguara	Crucilandia	4.991
+362	7	"Metropolitana de Belo Horizonte"	32	Itaguara	Itaguara	13.087
+363	7	"Metropolitana de Belo Horizonte"	32	Itaguara	Itatiaiucu	10.674
+364	7	"Metropolitana de Belo Horizonte"	32	Itaguara	Jeceaba	5.340
+365	7	"Metropolitana de Belo Horizonte"	32	Itaguara	Moeda	4.903
+366	7	"Metropolitana de Belo Horizonte"	32	Itaguara	"Piedade dos Gerais"	4.897
+367	7	"Metropolitana de Belo Horizonte"	32	Itaguara	"Rio Manso"	5.636
+368	7	"Metropolitana de Belo Horizonte"	33	"Ouro Preto"	"Diogo de Vasconcelos"	3.929
+369	7	"Metropolitana de Belo Horizonte"	33	"Ouro Preto"	Itabirito	49.203
+370	7	"Metropolitana de Belo Horizonte"	33	"Ouro Preto"	Mariana	58.233
+371	7	"Metropolitana de Belo Horizonte"	33	"Ouro Preto"	"Ouro Preto"	73.700
+372	7	"Metropolitana de Belo Horizonte"	34	"Conselheiro Lafaiete"	"Casa Grande"	2.308
+373	7	"Metropolitana de Belo Horizonte"	34	"Conselheiro Lafaiete"	"Catas Altas da Noruega"	3.623
+374	7	"Metropolitana de Belo Horizonte"	34	"Conselheiro Lafaiete"	Congonhas	52.280
+375	7	"Metropolitana de Belo Horizonte"	34	"Conselheiro Lafaiete"	"Conselheiro Lafaiete"	124.370
+376	7	"Metropolitana de Belo Horizonte"	34	"Conselheiro Lafaiete"	"Cristiano Otoni"	5.193
+377	7	"Metropolitana de Belo Horizonte"	34	"Conselheiro Lafaiete"	"Desterro de Entre-Rios"	0
+378	7	"Metropolitana de Belo Horizonte"	34	"Conselheiro Lafaiete"	"Entre-Rios de Minas"	0
+379	7	"Metropolitana de Belo Horizonte"	34	"Conselheiro Lafaiete"	Itaverava	5.795
+380	7	"Metropolitana de Belo Horizonte"	34	"Conselheiro Lafaiete"	"Ouro Branco"	37.878
+381	7	"Metropolitana de Belo Horizonte"	34	"Conselheiro Lafaiete"	Queluzito	1.940
+382	7	"Metropolitana de Belo Horizonte"	34	"Conselheiro Lafaiete"	"Santana dos Montes"	3.902
+383	7	"Metropolitana de Belo Horizonte"	34	"Conselheiro Lafaiete"	"Sao Bras do Suacui"	3.693
+384	8	"Vale do Rio Doce"	35	Guanhaes	Braunas	5.068
+385	8	"Vale do Rio Doce"	35	Guanhaes	Carmesia	2.584
+386	8	"Vale do Rio Doce"	35	Guanhaes	Coluna	9.195
+387	8	"Vale do Rio Doce"	35	Guanhaes	"Divinolandia de Minas"	7.425
+388	8	"Vale do Rio Doce"	35	Guanhaes	"Dores de Guanhaes"	5.335
+389	8	"Vale do Rio Doce"	35	Guanhaes	Gonzaga	6.168
+390	8	"Vale do Rio Doce"	35	Guanhaes	Guanhaes	33.297
+391	8	"Vale do Rio Doce"	35	Guanhaes	Materlandia	4.659
+392	8	"Vale do Rio Doce"	35	Guanhaes	Paulistas	5.010
+393	8	"Vale do Rio Doce"	35	Guanhaes	Sabinopolis	16.014
+394	8	"Vale do Rio Doce"	35	Guanhaes	"Santa Efigenia de Minas"	4.641
+395	8	"Vale do Rio Doce"	35	Guanhaes	"Sao Joao Evangelista"	16.043
+396	8	"Vale do Rio Doce"	35	Guanhaes	Sardoa	6.021
+397	8	"Vale do Rio Doce"	35	Guanhaes	"Senhora do Porto"	3.598
+398	8	"Vale do Rio Doce"	35	Guanhaes	Virginopolis	10.820
+399	8	"Vale do Rio Doce"	36	Pecanha	"Agua Boa"	14.856
+400	8	"Vale do Rio Doce"	36	Pecanha	Cantagalo	4.436
+401	8	"Vale do Rio Doce"	36	Pecanha	"Frei Lagonegro"	3.475
+402	8	"Vale do Rio Doce"	36	Pecanha	"Jose Raydan"	4.738
+403	8	"Vale do Rio Doce"	36	Pecanha	Pecanha	17.817
+404	8	"Vale do Rio Doce"	36	Pecanha	"Santa Maria do Suacui"	14.854
+405	8	"Vale do Rio Doce"	36	Pecanha	"Sao Jose do Jacuri"	6.682
+406	8	"Vale do Rio Doce"	36	Pecanha	"Sao Pedro do Suacui"	5.584
+407	8	"Vale do Rio Doce"	36	Pecanha	"Sao Sebastiao do Maranhao"	10.678
+408	8	"Vale do Rio Doce"	37	"Governador Valadares"	Alpercata	7.458
+409	8	"Vale do Rio Doce"	37	"Governador Valadares"	Campanario	3.720
+410	8	"Vale do Rio Doce"	37	"Governador Valadares"	"Capitao Andrade"	5.270
+411	8	"Vale do Rio Doce"	37	"Governador Valadares"	Coroaci	10.422
+412	8	"Vale do Rio Doce"	37	"Governador Valadares"	"Divino das Laranjeiras"	5.080
+413	8	"Vale do Rio Doce"	37	"Governador Valadares"	"Engenheiro Caldas"	10.888
+414	8	"Vale do Rio Doce"	37	"Governador Valadares"	"Fernandes Tourinho"	3.269
+415	8	"Vale do Rio Doce"	37	"Governador Valadares"	"Frei Inocencio"	9.428
+416	8	"Vale do Rio Doce"	37	"Governador Valadares"	Galileia	7.076
+417	8	"Vale do Rio Doce"	37	"Governador Valadares"	"Governador Valadares"	276.995
+418	8	"Vale do Rio Doce"	37	"Governador Valadares"	Itambacuri	23.557
+419	8	"Vale do Rio Doce"	37	"Governador Valadares"	Itanhomi	12.311
+420	8	"Vale do Rio Doce"	37	"Governador Valadares"	Jampruca	5.333
+421	8	"Vale do Rio Doce"	37	"Governador Valadares"	Marilac	4.286
+422	8	"Vale do Rio Doce"	37	"Governador Valadares"	"Matias Lobato"	0
+423	8	"Vale do Rio Doce"	37	"Governador Valadares"	"Nacip Raydan"	3.261
+424	8	"Vale do Rio Doce"	37	"Governador Valadares"	"Nova Modica"	3.811
+425	8	"Vale do Rio Doce"	37	"Governador Valadares"	Pescador	4.284
+426	8	"Vale do Rio Doce"	37	"Governador Valadares"	"Sao Geraldo da Piedade"	4.329
+427	8	"Vale do Rio Doce"	37	"Governador Valadares"	"Sao Geraldo do Baixio"	3.788
+428	8	"Vale do Rio Doce"	37	"Governador Valadares"	"Sao Jose da Safira"	4.258
+429	8	"Vale do Rio Doce"	37	"Governador Valadares"	"Sao Jose do Divino"	3.943
+430	8	"Vale do Rio Doce"	37	"Governador Valadares"	Sobralia	5.869
+431	8	"Vale do Rio Doce"	37	"Governador Valadares"	Tumiritinga	6.632
+432	8	"Vale do Rio Doce"	37	"Governador Valadares"	Virgolandia	5.691
+433	8	"Vale do Rio Doce"	38	Mantena	"Central de Minas"	7.051
+434	8	"Vale do Rio Doce"	38	Mantena	"Itabirinha de Mantena"	0
+435	8	"Vale do Rio Doce"	38	Mantena	Mantena	28.023
+436	8	"Vale do Rio Doce"	38	Mantena	"Mendes Pimentel"	6.541
+437	8	"Vale do Rio Doce"	38	Mantena	"Nova Belem"	3.609
+438	8	"Vale do Rio Doce"	38	Mantena	"Sao Felix de Minas"	3.465
+439	8	"Vale do Rio Doce"	38	Mantena	"Sao Joao do Manteninha"	5.591
+440	8	"Vale do Rio Doce"	39	Ipatinga	Acucena	10.216
+441	8	"Vale do Rio Doce"	39	Ipatinga	"Antonio Dias"	9.711
+442	8	"Vale do Rio Doce"	39	Ipatinga	"Belo Oriente"	25.329
+443	8	"Vale do Rio Doce"	39	Ipatinga	"Coronel Fabriciano"	108.843
+444	8	"Vale do Rio Doce"	39	Ipatinga	Ipatinga	255.266
+445	8	"Vale do Rio Doce"	39	Ipatinga	Jaguaracu	3.124
+446	8	"Vale do Rio Doce"	39	Ipatinga	Joanesia	5.222
+447	8	"Vale do Rio Doce"	39	Ipatinga	Marlieria	4.126
+448	8	"Vale do Rio Doce"	39	Ipatinga	Mesquita	6.038
+449	8	"Vale do Rio Doce"	39	Ipatinga	Naque	6.767
+450	8	"Vale do Rio Doce"	39	Ipatinga	Periquito	7.126
+451	8	"Vale do Rio Doce"	39	Ipatinga	"Santana do Paraiso"	30.943
+452	8	"Vale do Rio Doce"	39	Ipatinga	Timoteo	86.794
+453	8	"Vale do Rio Doce"	40	Caratinga	"Bom Jesus do Galho"	15.587
+454	8	"Vale do Rio Doce"	40	Caratinga	Bugre	4.128
+455	8	"Vale do Rio Doce"	40	Caratinga	Caratinga	90.192
+456	8	"Vale do Rio Doce"	40	Caratinga	"Corrego Novo"	3.065
+457	8	"Vale do Rio Doce"	40	Caratinga	"Dom Cavati"	5.288
+458	8	"Vale do Rio Doce"	40	Caratinga	Entre-Folhas	0
+459	8	"Vale do Rio Doce"	40	Caratinga	Iapu	10.820
+460	8	"Vale do Rio Doce"	40	Caratinga	"Imbe de Minas"	6.782
+461	8	"Vale do Rio Doce"	40	Caratinga	Inhapim	24.858
+462	8	"Vale do Rio Doce"	40	Caratinga	Ipaba	17.902
+463	8	"Vale do Rio Doce"	40	Caratinga	"Piedade de Caratinga"	7.878
+464	8	"Vale do Rio Doce"	40	Caratinga	Pingo-dAgua	4.743
+465	8	"Vale do Rio Doce"	40	Caratinga	"Santa Rita de Minas"	6.984
+466	8	"Vale do Rio Doce"	40	Caratinga	"Sao Domingos das Dores"	5.642
+467	8	"Vale do Rio Doce"	40	Caratinga	"Sao Joao do Oriente"	7.925
+468	8	"Vale do Rio Doce"	40	Caratinga	"Sao Sebastiao do Anta"	6.215
+469	8	"Vale do Rio Doce"	40	Caratinga	Tarumirim	14.674
+470	8	"Vale do Rio Doce"	40	Caratinga	Ubaporanga	12.523
+471	8	"Vale do Rio Doce"	40	Caratinga	"Vargem Alegre"	6.635
+472	8	"Vale do Rio Doce"	41	Aimores	Aimores	25.685
+473	8	"Vale do Rio Doce"	41	Aimores	Alvarenga	4.343
+474	8	"Vale do Rio Doce"	41	Aimores	"Conceicao de Ipanema"	4.618
+475	8	"Vale do Rio Doce"	41	Aimores	"Conselheiro Pena"	23.088
+476	8	"Vale do Rio Doce"	41	Aimores	Cuparaque	4.922
+477	8	"Vale do Rio Doce"	41	Aimores	Goiabeira	3.253
+478	8	"Vale do Rio Doce"	41	Aimores	Ipanema	19.318
+479	8	"Vale do Rio Doce"	41	Aimores	Itueta	6.069
+480	8	"Vale do Rio Doce"	41	Aimores	Mutum	27.475
+481	8	"Vale do Rio Doce"	41	Aimores	Pocrane	8.994
+482	8	"Vale do Rio Doce"	41	Aimores	Resplendor	17.653
+483	8	"Vale do Rio Doce"	41	Aimores	"Santa Rita do Itueto"	5.760
+484	8	"Vale do Rio Doce"	41	Aimores	Taparuba	3.206
+485	9	"Oeste de Minas"	42	Pium-i	Bambui	23.759
+486	9	"Oeste de Minas"	42	Pium-i	"Corrego Danta"	3.408
+487	9	"Oeste de Minas"	42	Pium-i	Doresopolis	1.512
+488	9	"Oeste de Minas"	42	Pium-i	Iguatama	8.202
+489	9	"Oeste de Minas"	42	Pium-i	Medeiros	3.676
+490	9	"Oeste de Minas"	42	Pium-i	Pium-i	0
+491	9	"Oeste de Minas"	42	Pium-i	"Sao Roque de Minas"	7.005
+492	9	"Oeste de Minas"	42	Pium-i	Tapirai	1.922
+493	9	"Oeste de Minas"	42	Pium-i	"Vargem Bonita"	2.214
+494	9	"Oeste de Minas"	43	Divinopolis	"Carmo do Cajuru"	21.519
+495	9	"Oeste de Minas"	43	Divinopolis	Claudio	27.579
+496	9	"Oeste de Minas"	43	Divinopolis	"Conceicao do Para"	5.430
+497	9	"Oeste de Minas"	43	Divinopolis	Divinopolis	228.643
+498	9	"Oeste de Minas"	43	Divinopolis	Igaratinga	10.144
+499	9	"Oeste de Minas"	43	Divinopolis	Itauna	90.783
+500	9	"Oeste de Minas"	43	Divinopolis	"Nova Serrana"	87.260
+501	9	"Oeste de Minas"	43	Divinopolis	Perdigao	10.185
+502	9	"Oeste de Minas"	43	Divinopolis	"Santo Antonio do Monte"	27.556
+503	9	"Oeste de Minas"	43	Divinopolis	"Sao Goncalo do Para"	11.475
+504	9	"Oeste de Minas"	43	Divinopolis	"Sao Sebastiao do Oeste"	6.344
+505	9	"Oeste de Minas"	44	Formiga	Arcos	38.946
+506	9	"Oeste de Minas"	44	Formiga	Camacho	3.133
+507	9	"Oeste de Minas"	44	Formiga	"Corrego Fundo"	6.159
+508	9	"Oeste de Minas"	44	Formiga	Formiga	67.833
+509	9	"Oeste de Minas"	44	Formiga	Itapecerica	22.082
+510	9	"Oeste de Minas"	44	Formiga	Pains	8.329
+511	9	"Oeste de Minas"	44	Formiga	"Pedra do Indaia"	4.013
+512	9	"Oeste de Minas"	44	Formiga	Pimenta	8.619
+513	9	"Oeste de Minas"	45	"Campo Belo"	Aguanil	4.332
+514	9	"Oeste de Minas"	45	"Campo Belo"	"Campo Belo"	53.870
+515	9	"Oeste de Minas"	45	"Campo Belo"	"Cana Verde"	5.738
+516	9	"Oeste de Minas"	45	"Campo Belo"	Candeias	15.088
+517	9	"Oeste de Minas"	45	"Campo Belo"	Cristais	12.185
+518	9	"Oeste de Minas"	45	"Campo Belo"	Perdoes	21.129
+519	9	"Oeste de Minas"	45	"Campo Belo"	"Santana do Jacare"	4.811
+520	9	"Oeste de Minas"	46	Oliveira	"Bom Sucesso"	17.832
+521	9	"Oeste de Minas"	46	Oliveira	"Carmo da Mata"	11.429
+522	9	"Oeste de Minas"	46	Oliveira	"Carmopolis de Minas"	18.416
+523	9	"Oeste de Minas"	46	Oliveira	Ibituruna	2.990
+524	9	"Oeste de Minas"	46	Oliveira	Oliveira	41.375
+525	9	"Oeste de Minas"	46	Oliveira	Passa-Tempo	0
+526	9	"Oeste de Minas"	46	Oliveira	Piracema	6.573
+527	9	"Oeste de Minas"	46	Oliveira	"Santo Antonio do Amparo"	18.266
+528	9	"Oeste de Minas"	46	Oliveira	"Sao Francisco de Paula"	6.668
+529	10	"Sul / Sudoeste de Minas"	47	Passos	Alpinopolis	19.513
+530	10	"Sul / Sudoeste de Minas"	47	Passos	"Bom Jesus da Penha"	4.121
+531	10	"Sul / Sudoeste de Minas"	47	Passos	Capetinga	7.203
+532	10	"Sul / Sudoeste de Minas"	47	Passos	Capitolio	8.574
+533	10	"Sul / Sudoeste de Minas"	47	Passos	Cassia	17.991
+534	10	"Sul / Sudoeste de Minas"	47	Passos	Claraval	4.776
+535	10	"Sul / Sudoeste de Minas"	47	Passos	Delfinopolis	7.120
+536	10	"Sul / Sudoeste de Minas"	47	Passos	"Fortaleza de Minas"	4.330
+537	10	"Sul / Sudoeste de Minas"	47	Passos	Ibiraci	13.158
+538	10	"Sul / Sudoeste de Minas"	47	Passos	"Itau de Minas"	15.798
+539	10	"Sul / Sudoeste de Minas"	47	Passos	Passos	112.402
+540	10	"Sul / Sudoeste de Minas"	47	Passos	Pratapolis	8.952
+541	10	"Sul / Sudoeste de Minas"	47	Passos	"Sao Joao Batista do Gloria"	7.292
+542	10	"Sul / Sudoeste de Minas"	47	Passos	"Sao Jose da Barra"	7.213
+543	10	"Sul / Sudoeste de Minas"	48	"Sao Sebastiao do Paraiso"	Arceburgo	10.262
+544	10	"Sul / Sudoeste de Minas"	48	"Sao Sebastiao do Paraiso"	"Cabo Verde"	14.280
+545	10	"Sul / Sudoeste de Minas"	48	"Sao Sebastiao do Paraiso"	Guaranesia	19.319
+546	10	"Sul / Sudoeste de Minas"	48	"Sao Sebastiao do Paraiso"	Guaxupe	51.704
+547	10	"Sul / Sudoeste de Minas"	48	"Sao Sebastiao do Paraiso"	Itamoji	0
+548	10	"Sul / Sudoeste de Minas"	48	"Sao Sebastiao do Paraiso"	Jacui	7.770
+549	10	"Sul / Sudoeste de Minas"	48	"Sao Sebastiao do Paraiso"	Juruaia	10.008
+550	10	"Sul / Sudoeste de Minas"	48	"Sao Sebastiao do Paraiso"	"Monte Belo"	13.440
+551	10	"Sul / Sudoeste de Minas"	48	"Sao Sebastiao do Paraiso"	"Monte Santo de Minas"	21.897
+552	10	"Sul / Sudoeste de Minas"	48	"Sao Sebastiao do Paraiso"	Muzambinho	21.012
+553	10	"Sul / Sudoeste de Minas"	48	"Sao Sebastiao do Paraiso"	"Nova Resende"	16.313
+554	10	"Sul / Sudoeste de Minas"	48	"Sao Sebastiao do Paraiso"	"Sao Pedro da Uniao"	5.016
+555	10	"Sul / Sudoeste de Minas"	48	"Sao Sebastiao do Paraiso"	"Sao Sebastiao do Paraiso"	69.057
+556	10	"Sul / Sudoeste de Minas"	48	"Sao Sebastiao do Paraiso"	"Sao Tomas de Aquino"	7.248
+557	10	"Sul / Sudoeste de Minas"	49	Alfenas	Alfenas	78.176
+558	10	"Sul / Sudoeste de Minas"	49	Alfenas	Alterosa	14.371
+559	10	"Sul / Sudoeste de Minas"	49	Alfenas	Areado	14.624
+560	10	"Sul / Sudoeste de Minas"	49	Alfenas	"Carmo do Rio Claro"	21.273
+561	10	"Sul / Sudoeste de Minas"	49	Alfenas	Carvalhopolis	3.523
+562	10	"Sul / Sudoeste de Minas"	49	Alfenas	"Conceicao da Aparecida"	10.263
+563	10	"Sul / Sudoeste de Minas"	49	Alfenas	"Divisa Nova"	6.011
+564	10	"Sul / Sudoeste de Minas"	49	Alfenas	Fama	2.421
+565	10	"Sul / Sudoeste de Minas"	49	Alfenas	Machado	41.070
+566	10	"Sul / Sudoeste de Minas"	49	Alfenas	Paraguacu	21.276
+567	10	"Sul / Sudoeste de Minas"	49	Alfenas	"Poco Fundo"	16.705
+568	10	"Sul / Sudoeste de Minas"	49	Alfenas	Serrania	7.787
+569	10	"Sul / Sudoeste de Minas"	50	Varginha	"Boa Esperanca"	40.155
+570	10	"Sul / Sudoeste de Minas"	50	Varginha	Campanha	16.325
+571	10	"Sul / Sudoeste de Minas"	50	Varginha	"Campo do Meio"	11.844
+572	10	"Sul / Sudoeste de Minas"	50	Varginha	"Campos Gerais"	28.783
+573	10	"Sul / Sudoeste de Minas"	50	Varginha	"Carmo da Cachoeira"	12.276
+574	10	"Sul / Sudoeste de Minas"	50	Varginha	Coqueiral	9.476
+575	10	"Sul / Sudoeste de Minas"	50	Varginha	"Eloi Mendes"	27.019
+576	10	"Sul / Sudoeste de Minas"	50	Varginha	Guape	14.379
+577	10	"Sul / Sudoeste de Minas"	50	Varginha	Ilicinea	12.141
+578	10	"Sul / Sudoeste de Minas"	50	Varginha	"Monsenhor Paulo"	8.583
+579	10	"Sul / Sudoeste de Minas"	50	Varginha	"Santana da Vargem"	7.364
+580	10	"Sul / Sudoeste de Minas"	50	Varginha	"Sao Bento Abade"	4.981
+581	10	"Sul / Sudoeste de Minas"	50	Varginha	"Sao Tome das Letras"	0
+582	10	"Sul / Sudoeste de Minas"	50	Varginha	"Tres Coracoes"	77.340
+583	10	"Sul / Sudoeste de Minas"	50	Varginha	"Tres Pontas"	56.408
+584	10	"Sul / Sudoeste de Minas"	50	Varginha	Varginha	131.269
+585	10	"Sul / Sudoeste de Minas"	51	"Pocos de Caldas"	Albertina	3.025
+586	10	"Sul / Sudoeste de Minas"	51	"Pocos de Caldas"	Andradas	39.761
+587	10	"Sul / Sudoeste de Minas"	51	"Pocos de Caldas"	"Bandeira do Sul"	5.639
+588	10	"Sul / Sudoeste de Minas"	51	"Pocos de Caldas"	Botelhos	15.325
+589	10	"Sul / Sudoeste de Minas"	51	"Pocos de Caldas"	Caldas	14.325
+590	10	"Sul / Sudoeste de Minas"	51	"Pocos de Caldas"	Campestre	21.367
+591	10	"Sul / Sudoeste de Minas"	51	"Pocos de Caldas"	"Ibitiura de Minas"	3.512
+592	10	"Sul / Sudoeste de Minas"	51	"Pocos de Caldas"	Inconfidentes	7.254
+593	10	"Sul / Sudoeste de Minas"	51	"Pocos de Caldas"	Jacutinga	24.648
+594	10	"Sul / Sudoeste de Minas"	51	"Pocos de Caldas"	"Monte Siao"	22.794
+595	10	"Sul / Sudoeste de Minas"	51	"Pocos de Caldas"	"Ouro Fino"	33.214
+596	10	"Sul / Sudoeste de Minas"	51	"Pocos de Caldas"	"Pocos de Caldas"	162.379
+597	10	"Sul / Sudoeste de Minas"	51	"Pocos de Caldas"	"Santa Rita de Caldas"	9.228
+598	10	"Sul / Sudoeste de Minas"	52	"Pouso Alegre"	"Bom Repouso"	10.763
+599	10	"Sul / Sudoeste de Minas"	52	"Pouso Alegre"	"Borda da Mata"	18.481
+600	10	"Sul / Sudoeste de Minas"	52	"Pouso Alegre"	"Bueno Brandao"	11.217
+601	10	"Sul / Sudoeste de Minas"	52	"Pouso Alegre"	Camanducaia	21.901
+602	10	"Sul / Sudoeste de Minas"	52	"Pouso Alegre"	Cambui	28.402
+603	10	"Sul / Sudoeste de Minas"	52	"Pouso Alegre"	Congonhal	11.334
+604	10	"Sul / Sudoeste de Minas"	52	"Pouso Alegre"	"Corrego do Bom Jesus"	3.815
+605	10	"Sul / Sudoeste de Minas"	52	"Pouso Alegre"	"Espirito Santo do Dourado"	4.648
+606	10	"Sul / Sudoeste de Minas"	52	"Pouso Alegre"	Estiva	11.329
+607	10	"Sul / Sudoeste de Minas"	52	"Pouso Alegre"	Extrema	32.402
+608	10	"Sul / Sudoeste de Minas"	52	"Pouso Alegre"	Goncalves	4.381
+609	10	"Sul / Sudoeste de Minas"	52	"Pouso Alegre"	Ipuiuna	9.991
+610	10	"Sul / Sudoeste de Minas"	52	"Pouso Alegre"	Itapeva	9.338
+611	10	"Sul / Sudoeste de Minas"	52	"Pouso Alegre"	Munhoz	6.327
+612	10	"Sul / Sudoeste de Minas"	52	"Pouso Alegre"	"Pouso Alegre"	142.073
+613	10	"Sul / Sudoeste de Minas"	52	"Pouso Alegre"	Sapucai-Mirim	6.678
+614	10	"Sul / Sudoeste de Minas"	52	"Pouso Alegre"	"Senador Amaral"	5.409
+615	10	"Sul / Sudoeste de Minas"	52	"Pouso Alegre"	"Senador Jose Bento"	1.769
+616	10	"Sul / Sudoeste de Minas"	52	"Pouso Alegre"	"Tocos do Moji"	4.112
+617	10	"Sul / Sudoeste de Minas"	52	"Pouso Alegre"	Toledo	6.111
+618	10	"Sul / Sudoeste de Minas"	53	"Santa Rita do Sapucai"	"Cachoeira de Minas"	11.525
+619	10	"Sul / Sudoeste de Minas"	53	"Santa Rita do Sapucai"	Careacu	6.645
+620	10	"Sul / Sudoeste de Minas"	53	"Santa Rita do Sapucai"	"Conceicao das Pedras"	2.845
+621	10	"Sul / Sudoeste de Minas"	53	"Santa Rita do Sapucai"	"Conceicao dos Ouros"	11.151
+622	10	"Sul / Sudoeste de Minas"	53	"Santa Rita do Sapucai"	Cordislandia	3.565
+623	10	"Sul / Sudoeste de Minas"	53	"Santa Rita do Sapucai"	Heliodora	6.455
+624	10	"Sul / Sudoeste de Minas"	53	"Santa Rita do Sapucai"	Natercia	4.807
+625	10	"Sul / Sudoeste de Minas"	53	"Santa Rita do Sapucai"	Pedralva	11.652
+626	10	"Sul / Sudoeste de Minas"	53	"Santa Rita do Sapucai"	"Santa Rita do Sapucai"	40.941
+627	10	"Sul / Sudoeste de Minas"	53	"Santa Rita do Sapucai"	"Sao Goncalo do Sapucai"	25.143
+628	10	"Sul / Sudoeste de Minas"	53	"Santa Rita do Sapucai"	"Sao Joao da Mata"	2.809
+629	10	"Sul / Sudoeste de Minas"	53	"Santa Rita do Sapucai"	"Sao Jose do Alegre"	4.180
+630	10	"Sul / Sudoeste de Minas"	53	"Santa Rita do Sapucai"	"Sao Sebastiao da Bela Vista"	5.300
+631	10	"Sul / Sudoeste de Minas"	53	"Santa Rita do Sapucai"	Silvianopolis	6.266
+632	10	"Sul / Sudoeste de Minas"	53	"Santa Rita do Sapucai"	Turvolandia	4.932
+633	10	"Sul / Sudoeste de Minas"	54	"Sao Lourenco"	Alagoa	2.764
+634	10	"Sul / Sudoeste de Minas"	54	"Sao Lourenco"	Baependi	19.117
+635	10	"Sul / Sudoeste de Minas"	54	"Sao Lourenco"	Cambuquira	13.012
+636	10	"Sul / Sudoeste de Minas"	54	"Sao Lourenco"	"Carmo de Minas"	14.550
+637	10	"Sul / Sudoeste de Minas"	54	"Sao Lourenco"	Caxambu	22.244
+638	10	"Sul / Sudoeste de Minas"	54	"Sao Lourenco"	"Conceicao do Rio Verde"	13.559
+639	10	"Sul / Sudoeste de Minas"	54	"Sao Lourenco"	Itamonte	14.998
+640	10	"Sul / Sudoeste de Minas"	54	"Sao Lourenco"	Itanhandu	15.006
+641	10	"Sul / Sudoeste de Minas"	54	"Sao Lourenco"	Jesuania	4.899
+642	10	"Sul / Sudoeste de Minas"	54	"Sao Lourenco"	Lambari	20.564
+643	10	"Sul / Sudoeste de Minas"	54	"Sao Lourenco"	"Olimpio Noronha"	2.700
+644	10	"Sul / Sudoeste de Minas"	54	"Sao Lourenco"	Passa-Quatro	0
+645	10	"Sul / Sudoeste de Minas"	54	"Sao Lourenco"	"Pouso Alto"	6.263
+646	10	"Sul / Sudoeste de Minas"	54	"Sao Lourenco"	"Sao Lourenco"	44.417
+647	10	"Sul / Sudoeste de Minas"	54	"Sao Lourenco"	"Sao Sebastiao do Rio Verde"	2.217
+648	10	"Sul / Sudoeste de Minas"	54	"Sao Lourenco"	"Soledade de Minas"	6.014
+649	10	"Sul / Sudoeste de Minas"	55	Andrelandia	Aiuruoca	6.257
+650	10	"Sul / Sudoeste de Minas"	55	Andrelandia	Andrelandia	12.507
+651	10	"Sul / Sudoeste de Minas"	55	Andrelandia	Arantina	2.884
+652	10	"Sul / Sudoeste de Minas"	55	Andrelandia	"Bocaina de Minas"	5.169
+653	10	"Sul / Sudoeste de Minas"	55	Andrelandia	"Bom Jardim de Minas"	6.658
+654	10	"Sul / Sudoeste de Minas"	55	Andrelandia	Carvalhos	4.642
+655	10	"Sul / Sudoeste de Minas"	55	Andrelandia	Cruzilia	15.299
+656	10	"Sul / Sudoeste de Minas"	55	Andrelandia	Liberdade	5.373
+657	10	"Sul / Sudoeste de Minas"	55	Andrelandia	Minduri	3.960
+658	10	"Sul / Sudoeste de Minas"	55	Andrelandia	Passa-Vinte	2.117
+659	10	"Sul / Sudoeste de Minas"	55	Andrelandia	"Sao Vicente de Minas"	7.487
+660	10	"Sul / Sudoeste de Minas"	55	Andrelandia	Seritinga	1.860
+661	10	"Sul / Sudoeste de Minas"	55	Andrelandia	Serranos	2.033
+662	10	"Sul / Sudoeste de Minas"	56	Itajuba	Brasopolis	14.957
+663	10	"Sul / Sudoeste de Minas"	56	Itajuba	Consolacao	1.801
+664	10	"Sul / Sudoeste de Minas"	56	Itajuba	Cristina	10.485
+665	10	"Sul / Sudoeste de Minas"	56	Itajuba	"Delfim Moreira"	8.199
+666	10	"Sul / Sudoeste de Minas"	56	Itajuba	"Dom Vicoso"	3.074
+667	10	"Sul / Sudoeste de Minas"	56	Itajuba	Itajuba	95.491
+668	10	"Sul / Sudoeste de Minas"	56	Itajuba	"Maria da Fe"	14.534
+669	10	"Sul / Sudoeste de Minas"	56	Itajuba	Marmelopolis	2.958
+670	10	"Sul / Sudoeste de Minas"	56	Itajuba	Paraisopolis	20.563
+671	10	"Sul / Sudoeste de Minas"	56	Itajuba	Pirangucu	5.454
+672	10	"Sul / Sudoeste de Minas"	56	Itajuba	Piranguinho	8.456
+673	10	"Sul / Sudoeste de Minas"	56	Itajuba	"Venceslau Bras"	0
+674	10	"Sul / Sudoeste de Minas"	56	Itajuba	Virginia	8.865
+675	11	"Campo das Vertentes"	57	Lavras	Carrancas	4.089
+676	11	"Campo das Vertentes"	57	Lavras	Ijaci	6.288
+677	11	"Campo das Vertentes"	57	Lavras	Ingai	2.752
+678	11	"Campo das Vertentes"	57	Lavras	Itumirim	6.250
+679	11	"Campo das Vertentes"	57	Lavras	Itutinga	3.963
+680	11	"Campo das Vertentes"	57	Lavras	Lavras	99.229
+681	11	"Campo das Vertentes"	57	Lavras	Luminarias	5.571
+682	11	"Campo das Vertentes"	57	Lavras	Nepomuceno	26.812
+683	11	"Campo das Vertentes"	57	Lavras	"Ribeirao Vermelho"	4.008
+684	11	"Campo das Vertentes"	58	"Sao Joao Del-Rei"	"Conceicao da Barra de Minas"	4.055
+685	11	"Campo das Vertentes"	58	"Sao Joao Del-Rei"	"Coronel Xavier Chaves"	3.440
+686	11	"Campo das Vertentes"	58	"Sao Joao Del-Rei"	"Dores de Campos"	9.882
+687	11	"Campo das Vertentes"	58	"Sao Joao Del-Rei"	"Lagoa Dourada"	12.874
+688	11	"Campo das Vertentes"	58	"Sao Joao Del-Rei"	"Madre de Deus de Minas"	5.108
+689	11	"Campo das Vertentes"	58	"Sao Joao Del-Rei"	Nazareno	8.422
+690	11	"Campo das Vertentes"	58	"Sao Joao Del-Rei"	"Piedade do Rio Grande"	4.744
+691	11	"Campo das Vertentes"	58	"Sao Joao Del-Rei"	Prados	8.865
+692	11	"Campo das Vertentes"	58	"Sao Joao Del-Rei"	"Resende Costa"	11.429
+693	11	"Campo das Vertentes"	58	"Sao Joao Del-Rei"	Ritapolis	4.922
+694	11	"Campo das Vertentes"	58	"Sao Joao Del-Rei"	"Santa Cruz de Minas"	8.365
+695	11	"Campo das Vertentes"	58	"Sao Joao Del-Rei"	"Santana do Garambeu"	2.381
+696	11	"Campo das Vertentes"	58	"Sao Joao Del-Rei"	"Sao Joao del-Rei"	0
+697	11	"Campo das Vertentes"	58	"Sao Joao Del-Rei"	"Sao Tiago"	10.986
+698	11	"Campo das Vertentes"	58	"Sao Joao Del-Rei"	Tiradentes	7.551
+699	11	"Campo das Vertentes"	59	Barbacena	"Alfredo Vasconcelos"	6.566
+700	11	"Campo das Vertentes"	59	Barbacena	"Antonio Carlos"	11.534
+701	11	"Campo das Vertentes"	59	Barbacena	Barbacena	133.972
+702	11	"Campo das Vertentes"	59	Barbacena	Barroso	20.590
+703	11	"Campo das Vertentes"	59	Barbacena	"Capela Nova"	4.836
+704	11	"Campo das Vertentes"	59	Barbacena	Caranaiba	3.330
+705	11	"Campo das Vertentes"	59	Barbacena	Carandai	24.864
+706	11	"Campo das Vertentes"	59	Barbacena	"Desterro do Melo"	3.048
+707	11	"Campo das Vertentes"	59	Barbacena	Ibertioga	5.159
+708	11	"Campo das Vertentes"	59	Barbacena	Ressaquinha	4.820
+709	11	"Campo das Vertentes"	59	Barbacena	"Santa Barbara do Tugurio"	4.631
+710	11	"Campo das Vertentes"	59	Barbacena	"Senhora dos Remedios"	10.565
+711	12	"Zona da Mata"	60	"Ponte Nova"	Acaiaca	4.050
+712	12	"Zona da Mata"	60	"Ponte Nova"	"Barra Longa"	5.893
+713	12	"Zona da Mata"	60	"Ponte Nova"	"Dom Silverio"	5.346
+714	12	"Zona da Mata"	60	"Ponte Nova"	Guaraciaba	10.527
+715	12	"Zona da Mata"	60	"Ponte Nova"	Jequeri	12.993
+716	12	"Zona da Mata"	60	"Ponte Nova"	Oratorios	4.673
+717	12	"Zona da Mata"	60	"Ponte Nova"	"Piedade de Ponte Nova"	4.197
+718	12	"Zona da Mata"	60	"Ponte Nova"	"Ponte Nova"	59.814
+719	12	"Zona da Mata"	60	"Ponte Nova"	"Raul Soares"	24.408
+720	12	"Zona da Mata"	60	"Ponte Nova"	"Rio Casca"	14.310
+721	12	"Zona da Mata"	60	"Ponte Nova"	"Rio Doce"	2.588
+722	12	"Zona da Mata"	60	"Ponte Nova"	"Santa Cruz do Escalvado"	5.026
+723	12	"Zona da Mata"	60	"Ponte Nova"	"Santo Antonio do Grama"	4.120
+724	12	"Zona da Mata"	60	"Ponte Nova"	"Sao Pedro dos Ferros"	8.339
+725	12	"Zona da Mata"	60	"Ponte Nova"	Sem-Peixe	2.834
+726	12	"Zona da Mata"	60	"Ponte Nova"	Sericita	7.391
+727	12	"Zona da Mata"	60	"Ponte Nova"	Urucania	10.583
+728	12	"Zona da Mata"	60	"Ponte Nova"	"Vermelho Novo"	4.871
+729	12	"Zona da Mata"	61	Manhuacu	Abre-Campo	0
+730	12	"Zona da Mata"	61	Manhuacu	"Alto Caparao"	5.655
+731	12	"Zona da Mata"	61	Manhuacu	"Alto Jequitiba"	8.532
+732	12	"Zona da Mata"	61	Manhuacu	Caparao	5.435
+733	12	"Zona da Mata"	61	Manhuacu	Caputira	9.371
+734	12	"Zona da Mata"	61	Manhuacu	Chale	5.814
+735	12	"Zona da Mata"	61	Manhuacu	Durande	7.783
+736	12	"Zona da Mata"	61	Manhuacu	Lajinha	20.241
+737	12	"Zona da Mata"	61	Manhuacu	Luisburgo	6.407
+738	12	"Zona da Mata"	61	Manhuacu	Manhuacu	85.909
+739	12	"Zona da Mata"	61	Manhuacu	Manhumirim	22.465
+740	12	"Zona da Mata"	61	Manhuacu	"Martins Soares"	7.858
+741	12	"Zona da Mata"	61	Manhuacu	Matipo	18.604
+742	12	"Zona da Mata"	61	Manhuacu	"Pedra Bonita"	7.015
+743	12	"Zona da Mata"	61	Manhuacu	Reduto	6.973
+744	12	"Zona da Mata"	61	Manhuacu	"Santa Barbara do Leste"	8.068
+745	12	"Zona da Mata"	61	Manhuacu	"Santa Margarida"	15.879
+746	12	"Zona da Mata"	61	Manhuacu	"Santana do Manhuacu"	8.839
+747	12	"Zona da Mata"	61	Manhuacu	"Sao Joao do Manhuacu"	11.038
+748	12	"Zona da Mata"	61	Manhuacu	"Sao Jose do Mantimento"	2.738
+749	12	"Zona da Mata"	61	Manhuacu	Simonesia	19.307
+750	12	"Zona da Mata"	62	Vicosa	"Alto Rio Doce"	12.006
+751	12	"Zona da Mata"	62	Vicosa	"Amparo da Serra"	0
+752	12	"Zona da Mata"	62	Vicosa	Araponga	8.478
+753	12	"Zona da Mata"	62	Vicosa	"Bras Pires"	4.634
+754	12	"Zona da Mata"	62	Vicosa	Cajuri	4.128
+755	12	"Zona da Mata"	62	Vicosa	Canaa	4.721
+756	12	"Zona da Mata"	62	Vicosa	Cipotanea	6.813
+757	12	"Zona da Mata"	62	Vicosa	Coimbra	7.437
+758	12	"Zona da Mata"	62	Vicosa	Ervalia	18.789
+759	12	"Zona da Mata"	62	Vicosa	Lamim	3.517
+760	12	"Zona da Mata"	62	Vicosa	"Paula Candido"	9.630
+761	12	"Zona da Mata"	62	Vicosa	"Pedra do Anta"	3.375
+762	12	"Zona da Mata"	62	Vicosa	Piranga	17.835
+763	12	"Zona da Mata"	62	Vicosa	"Porto Firme"	11.033
+764	12	"Zona da Mata"	62	Vicosa	"Presidente Bernardes"	5.612
+765	12	"Zona da Mata"	62	Vicosa	"Rio Espera"	5.986
+766	12	"Zona da Mata"	62	Vicosa	"Sao Miguel do Anta"	7.006
+767	12	"Zona da Mata"	62	Vicosa	"Senhora de Oliveira"	5.871
+768	12	"Zona da Mata"	62	Vicosa	Teixeiras	11.770
+769	12	"Zona da Mata"	62	Vicosa	Vicosa	76.745
+770	12	"Zona da Mata"	63	Muriae	"Antonio Prado de Minas"	1.685
+771	12	"Zona da Mata"	63	Muriae	"Barao do Monte Alto"	0
+772	12	"Zona da Mata"	63	Muriae	Caiana	5.308
+773	12	"Zona da Mata"	63	Muriae	Carangola	33.412
+774	12	"Zona da Mata"	63	Muriae	Divino	19.947
+775	12	"Zona da Mata"	63	Muriae	"Espera Feliz"	24.287
+776	12	"Zona da Mata"	63	Muriae	Eugenopolis	11.107
+777	12	"Zona da Mata"	63	Muriae	"Faria Lemos"	3.409
+778	12	"Zona da Mata"	63	Muriae	Fervedouro	10.880
+779	12	"Zona da Mata"	63	Muriae	Miradouro	10.718
+780	12	"Zona da Mata"	63	Muriae	Mirai	14.649
+781	12	"Zona da Mata"	63	Muriae	Muriae	106.576
+782	12	"Zona da Mata"	63	Muriae	Orizania	7.767
+783	12	"Zona da Mata"	63	Muriae	"Patrocinio do Muriae"	5.583
+784	12	"Zona da Mata"	63	Muriae	"Pedra Dourada"	2.374
+785	12	"Zona da Mata"	63	Muriae	"Rosario da Limeira"	4.495
+786	12	"Zona da Mata"	63	Muriae	"Sao Francisco do Gloria"	5.177
+787	12	"Zona da Mata"	63	Muriae	"Sao Sebastiao da Vargem Alegre"	2.955
+788	12	"Zona da Mata"	63	Muriae	Tombos	9.174
+789	12	"Zona da Mata"	63	Muriae	Vieiras	3.777
+790	12	"Zona da Mata"	64	Uba	"Astolfo Dutra"	13.840
+791	12	"Zona da Mata"	64	Uba	Divinesia	3.427
+792	12	"Zona da Mata"	64	Uba	"Dores do Turvo"	4.495
+793	12	"Zona da Mata"	64	Uba	Guarani	8.996
+794	12	"Zona da Mata"	64	Uba	Guidoval	7.341
+795	12	"Zona da Mata"	64	Uba	Guiricema	8.805
+796	12	"Zona da Mata"	64	Uba	Merces	10.784
+797	12	"Zona da Mata"	64	Uba	Pirauba	11.112
+798	12	"Zona da Mata"	64	Uba	"Rio Pomba"	17.872
+799	12	"Zona da Mata"	64	Uba	Rodeiro	7.543
+800	12	"Zona da Mata"	64	Uba	"Sao Geraldo"	11.372
+801	12	"Zona da Mata"	64	Uba	"Senador Firmino"	7.650
+802	12	"Zona da Mata"	64	Uba	Silveirania	2.277
+803	12	"Zona da Mata"	64	Uba	Tabuleiro	4.052
+804	12	"Zona da Mata"	64	Uba	Tocantins	16.567
+805	12	"Zona da Mata"	64	Uba	Uba	109.779
+806	12	"Zona da Mata"	64	Uba	"Visconde do Rio Branco"	40.778
+807	12	"Zona da Mata"	65	"Juiz de Fora"	Aracitaba	2.112
+808	12	"Zona da Mata"	65	"Juiz de Fora"	"Belmiro Braga"	3.500
+809	12	"Zona da Mata"	65	"Juiz de Fora"	"Bias Fortes"	3.724
+810	12	"Zona da Mata"	65	"Juiz de Fora"	Bicas	14.342
+811	12	"Zona da Mata"	65	"Juiz de Fora"	Chacara	3.010
+812	12	"Zona da Mata"	65	"Juiz de Fora"	Chiador	2.817
+813	12	"Zona da Mata"	65	"Juiz de Fora"	"Coronel Pacheco"	3.101
+814	12	"Zona da Mata"	65	"Juiz de Fora"	Descoberto	4.989
+815	12	"Zona da Mata"	65	"Juiz de Fora"	"Ewbank da Camara"	3.914
+816	12	"Zona da Mata"	65	"Juiz de Fora"	Goiana	3.876
+817	12	"Zona da Mata"	65	"Juiz de Fora"	Guarara	3.977
+818	12	"Zona da Mata"	65	"Juiz de Fora"	"Juiz de Fora"	550.710
+819	12	"Zona da Mata"	65	"Juiz de Fora"	"Lima Duarte"	16.786
+820	12	"Zona da Mata"	65	"Juiz de Fora"	"Mar de Espanha"	12.480
+821	12	"Zona da Mata"	65	"Juiz de Fora"	"Maripa de Minas"	2.934
+822	12	"Zona da Mata"	65	"Juiz de Fora"	"Matias Barbosa"	14.196
+823	12	"Zona da Mata"	65	"Juiz de Fora"	Olaria	1.935
+824	12	"Zona da Mata"	65	"Juiz de Fora"	"Oliveira Fortes"	2.182
+825	12	"Zona da Mata"	65	"Juiz de Fora"	Paiva	1.587
+826	12	"Zona da Mata"	65	"Juiz de Fora"	"Pedro Teixeira"	1.840
+827	12	"Zona da Mata"	65	"Juiz de Fora"	Pequeri	3.310
+828	12	"Zona da Mata"	65	"Juiz de Fora"	Piau	2.877
+829	12	"Zona da Mata"	65	"Juiz de Fora"	"Rio Novo"	9.032
+830	12	"Zona da Mata"	65	"Juiz de Fora"	"Rio Preto"	5.502
+831	12	"Zona da Mata"	65	"Juiz de Fora"	"Rochedo de Minas"	2.246
+832	12	"Zona da Mata"	65	"Juiz de Fora"	"Santa Barbara do Monte Verde"	3.005
+833	12	"Zona da Mata"	65	"Juiz de Fora"	"Santa Rita do Ibitipoca"	0
+834	12	"Zona da Mata"	65	"Juiz de Fora"	"Santa Rita do Jacutinga"	0
+835	12	"Zona da Mata"	65	"Juiz de Fora"	"Santana do Deserto"	4.006
+836	12	"Zona da Mata"	65	"Juiz de Fora"	"Santos Dumont"	47.558
+837	12	"Zona da Mata"	65	"Juiz de Fora"	S	0
+838	12	"Zona da Mata"	65	"Juiz de Fora"	"Senador Cortes"	2.046
+839	12	"Zona da Mata"	65	"Juiz de Fora"	Sim	0
+840	12	"Zona da Mata"	66	Cataguases	Al	0
+841	12	"Zona da Mata"	66	Cataguases	Argirita	2.907
+842	12	"Zona da Mata"	66	Cataguases	Cataguases	73.712
+843	12	"Zona da Mata"	66	Cataguases	"Dona Eus"	0
+844	12	"Zona da Mata"	66	Cataguases	Estrela-dAlva	0
+845	12	"Zona da Mata"	66	Cataguases	"Itamarati de Minas"	4.295
+846	12	"Zona da Mata"	66	Cataguases	Laranjal	6.770
+847	12	"Zona da Mata"	66	Cataguases	Leopoldina	53.032
+848	12	"Zona da Mata"	66	Cataguases	Palma	6.742
+849	12	"Zona da Mata"	66	Cataguases	Pirapetinga	10.787
+850	12	"Zona da Mata"	66	Cataguases	Recreio	10.651
+851	12	"Zona da Mata"	66	Cataguases	"Santana de Cataguases"	3.815
+852	12	"Zona da Mata"	66	Cataguases	"Santo Ant"	0
+853	12	"Zona da Mata"	66	Cataguases	"Volta Grande"	5.274

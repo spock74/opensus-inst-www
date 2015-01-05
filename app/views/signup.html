@@ -1,0 +1,50 @@
+<div class="header">
+  <ul class="nav nav-pills pull-right">
+    <li><a ng-href="#/Home">Home</a>
+    <li><a ng-href="#/geosus">OpenSUS</a></li>
+    <li><a ng-href="#/transparencias">Transparências</a></li>
+    <li><a ng-href="#/login">Login</a></li>
+    <li class="active"><a ng-href="#/signup">Criar Conta</a></li>
+    <li><a ng-href="#/help">Ajuda</a></li>
+    <li><a ng-href="#/contact">Contato</a></li>
+    <li><a ng-href="#/about">Sobre</a></li>
+  </ul>
+  <h3 class="text-muted">&nbsp;</h3>
+
+</div>
+
+
+
+<!-- uiView:  -->
+<div class="m-b-lg">
+	<div class="wrapper text-center">
+		<strong>Crie uma conta para poder criar transparências</strong>
+	</div>
+	<form name="form" class="form-validation ng-pristine ng-invalid ng-invalid-required ng-valid-email">
+		<div class="text-danger wrapper text-center ng-binding ng-hide" ng-show="authError">
+			
+		</div>
+		<div class="list-group list-group-sm">
+			<div class="list-group-item">
+				<input placeholder="Nome" class="form-control no-border ng-pristine ng-untouched ng-invalid ng-invalid-required" ng-model="user.name" required="">
+			</div>
+			<div class="list-group-item">
+				<input type="email" placeholder="Email" class="form-control no-border ng-pristine ng-untouched ng-valid-email ng-invalid ng-invalid-required" ng-model="user.email" required="true">
+			</div>
+			<div class="list-group-item">
+				<input type="password" placeholder="Senha" class="form-control no-border ng-pristine ng-untouched ng-invalid ng-invalid-required" ng-model="user.password" required="true">
+			</div>
+		</div>
+		<div class="checkbox m-b-md m-t-none">
+			<label class="i-checks">
+				<input type="checkbox" ng-model="agree" required="true" class="ng-pristine ng-untouched ng-invalid ng-invalid-required"><i></i> Concordo com  <a href="">os termos dessa página</a>
+			</label>
+		</div>
+		<button type="submit" class="btn btn-lg btn-primary btn-block" ng-click="signup()" ng-disabled="form.$invalid">Criar Conta</button>
+		<div class="line line-dashed"></div>
+		<p class="text-center"><small>Já tem uma conta?</small></p>
+		<a ui-sref="access.signin" class="btn btn-lg btn-default btn-block" href="#/access/signin">Login</a>
+	</form>
+</div>
+<!-- ngInclude: 'tpl/blocks/page_footer.html' -->
+

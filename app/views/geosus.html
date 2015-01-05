@@ -1,0 +1,205 @@
+<div class="header">
+  <ul class="nav nav-pills pull-right">
+    <li><a ng-href="#/Home">Home</a>
+    <li class="active"><a ng-href="#/geosus">OpenSUS</a></li>
+    <li><a ng-href="#/transparencias">Transparências</a></li>
+    <li><a ng-href="#/login">Login</a></li>
+    <li><a ng-href="#/signup">Criar Conta</a></li>
+    <li><a ng-href="#/help">Ajuda</a></li>
+    <li><a ng-href="#/contact">Contato</a></li>
+    <li><a ng-href="#/about">Sobre</a></li>
+  </ul>
+  <h3 class="text-muted">&nbsp;</h3>
+</div>
+
+
+<p>This is the geosus view.</p>
+
+
+
+<div id="map"></div>
+
+<style>
+    pre {
+    border: solid gray 1px;
+    padding: 5px;
+    margin: 10px;
+}
+</style>
+
+<br>
+<br>
+<br>
+<br><!--  -->
+<!--  -->
+<div class="well">
+<form>
+<button id="postbutton" class="btn btn-success">Executar</button> <br><br>
+<br><br><br><br>
+ID da Sessão: <div id="key"></div> <br>
+<!-- Session Location: <div id="location"></div>  -->
+
+<pre><code id="output" visible="false"></code></pre> 
+<form>    
+</div>
+<!--  -->
+<!--  -->
+<!--  -->
+
+
+
+
+<script>
+
+
+/*// Provide your access token
+L.mapbox.accessToken = 'pk.eyJ1Ijoic3BvY2s3NCIsImEiOiJKQ003d1J3In0.IrjJ8N7-TYqLpOf7l-U2Tw';
+// Create a map in the div #map
+L.mapbox.map('map', 'spock74.jnpngimc');*/
+
+
+
+
+// add an OpenStreetMap tile layer
+/*L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(map);
+
+// add a marker in the given location, attach some popup content to it and open the popup
+L.marker([51.5, -0.09]).addTo(map)
+    .bindPopup('A pretty CSS3 popup. <br> Easily customizable.')
+    .openPopup();
+
+*/
+// map refers to a <div> element with the ID map
+// examples.map-4l7djmvo is the ID of a map on Mapbox.com
+/*L.mapbox.accessToken = 'pk.eyJ1Ijoic3BvY2s3NCIsImEiOiJKQ003d1J3In0.IrjJ8N7-TYqLpOf7l-U2Tw';
+// Create a map in the div #map
+var map = L.mapbox.map('map', 'spock74.jnpngimc');
+*/
+
+//L.mapbox.accessToken = 'pk.eyJ1Ijoic3BvY2s3NCIsImEiOiJKQ003d1J3In0.IrjJ8N7-TYqLpOf7l-U2Tw';
+
+//L.mapbox.map('map', 'spock74.jnpngimc');
+// -18.08205986, -40.93415833
+
+//ocpu.seturl("//104.131.124.83/ocpu/library/opensus/R");
+//ocpu.seturl("//localhost/ocpu/library/opensus/R");
+
+//global var
+var mysession;
+var req;
+var data_;
+var lat;
+var lon;
+var geojsonBetim = [];
+
+var map = L.map('map').setView([-18.08205986, -40.93415833], 8);
+
+L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(map);
+
+//calls R function: stats::rnorm(n=100, mean=runif(1)):
+$("#postbutton").click(function(){
+
+
+
+    var req = ocpu.call("getDocByMunicipio", {"municipio" : "Belo Horizonte", "nLimit" : 6000}, function(session){
+        //assign to global var
+        mysession = session;
+        
+        //read the session properties (just for fun)
+        $("#key").text(mysession.getKey());
+        //$("#location").text(mysession.getLoc());
+        
+        //retrieve session console (async)
+/*        mysession.getObject(function(outtxt){
+           //$("#output").text(outtxt.);
+        });*/
+
+       
+           //retrieve object (async)
+    mysession.getObject(function(data){
+        //data is the object returned by the R function
+        data_ = data;
+
+    for(var ii = 0;  ii<=data.length; ii++){
+        $("#output").append(data[ii]['_id']+'\n');
+        $("#output").append(data[ii]['Nome']+'\n');
+        $("#output").append(data[ii]['CNES']+'\n');
+        $("#output").append(data[ii]['RazaoSocial']+'\n');
+        $("#output").append(data[ii]['Tipo']+'\n');
+        $("#output").append(data[ii]['Pessoa']+'\n');
+        $("#output").append(data[ii]['Natureza']+'\n');
+        $("#output").append(data[ii]['Esfera']+'\n');
+        $("#output").append(data[ii]['Logradouro']+'\n');
+        $("#output").append(data[ii]['Numero']+'\n');
+        $("#output").append(data[ii]['CEP']+'\n');
+        $("#output").append(data[ii]['Telefone']+'\n');
+        $("#output").append(data[ii]['Bairro']+'\n');
+        $("#output").append(data[ii]['Complemento']+'\n');
+        $("#output").append(data[ii]['Municipio']+'\n');
+        $("#output").append(data[ii]['UF']+'\n');
+        $("#output").append(data[ii]['Latitude']+'\n');
+        $("#output").append(data[ii]['Longitude']+'\n');
+        $("#output").append('------------------------------------\n');
+
+
+
+/*        geojsonBetim[ii] = {
+            "type": "Feature",
+            "properties": {
+                "name": data[ii]['Nome'][0],
+                "amenity": "xxxxx",
+                "popupContent": "xxxxxx!",
+                "show_on_map": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [data[ii]['Latitude'][0], data[ii]['Longitude'][0]]
+            }
+        };*/
+
+        
+        L.marker( [ data[ii]['Latitude'][0], data[ii]['Longitude'][0] ] ).addTo(map)
+    }
+
+    //L.geoJson(geojsonBetim).addTo(map);
+
+
+        
+    });
+
+
+    }).fail(function(){
+        alert("Error: " + d.responseText);
+    });
+
+});        
+
+
+
+
+
+
+
+
+
+
+
+
+//L.marker(data_['Latitude'], data_['Longitude']).addTo(map);
+//console.log("Daqui", data.length)
+
+/*/ocpu/tmp/x0850e5acb6/R/.val
+
+*/
+
+
+
+
+
+</script>
+
+
